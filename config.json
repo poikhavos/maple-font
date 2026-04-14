@@ -9,10 +9,10 @@
   "infinite_arrow": null,
   "remove_tag_liga": false,
   "weight_mapping": {
-    "regular": 400,
-    "bold": 700
+    "regular": 450,
+    "bold": 650
   },
-  "line_height": 1.0,
+  "line_height": .95,
   "width": "slim",
   "feature_freeze": {
     "cv01": "enable",
@@ -30,7 +30,7 @@
     "cv32": "ignore",
     "cv33": "ignore",
     "cv34": "enable",
-    "cv35": "ignore",
+    "cv35": "enable",
     "cv36": "ignore",
     "cv37": "ignore",
     "cv38": "enable",
