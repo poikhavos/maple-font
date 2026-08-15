@@ -5,7 +5,7 @@
   "enable_ligature": false,
   "ttfautohint_param": {},
   "github_mirror": "github.com",
-  "infinite_arrow": null,
+  "infinite_arrow": false,
   "remove_tag_liga": false,
   "weight_mapping": {
     "regular": 400,
